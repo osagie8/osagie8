@@ -1,4 +1,4 @@
-# Hi, I'm Osagie, an [IT Professional](#) 😊
+# Hi, I'm Osagie Owie
 
 ## 💻 Information Technology Projects:
 
