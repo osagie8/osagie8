@@ -3,7 +3,7 @@
 ## 💻 Information Technology Projects:
 
 - **osTicket (Help Desk Ticketing System)**
-  - [osTicket: Prerequisites and Installation](#)
+  - [osTicket: Prerequisites and Installation](#https://github.com/osagie8/SeniorProject)
   - [osTicket: Post-Installation Configuration](#)
   - [osTicket: Ticket Lifecycle Examples](#)
 
