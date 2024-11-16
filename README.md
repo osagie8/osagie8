@@ -1,4 +1,4 @@
-<h1>Hi, I'm Osagie, an <a href="https://linkedin.com/in/osagieowie">IT Professional</a>☺</h1>
+<h1>Hi, I'm Osagie, an <a href="https://linkedin.com/in/osagieowie">IT Professional.</a></h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
@@ -10,10 +10,15 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/osagie8/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/osagie8/azure-network-protocols)
 
+<h2>👨‍💻 Im currently working on</h2>
+
 <h2>🤳Connect with me:</h2>
 
 
-[LinkedIn](https://linkedin.com/in/osagieowie)
+[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://linkedin.com/in/osagieowie
+
 <!--
 **osagie8/osagie8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
