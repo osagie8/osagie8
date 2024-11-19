@@ -4,8 +4,9 @@
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/osagie8/osticket-prereqs)
+  <!-- 
   - [osTicket: Post-Installation Configuration](https://github.com/osagie8/post-install-config)
-   <!-- 
+   
   - [osTicket: Ticket Lifecycle Examples](https://github.com/osagie8/ticket-lifecycle)
   -->
 
