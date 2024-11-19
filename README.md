@@ -18,7 +18,7 @@
 
 <h2>👨‍💻 Im currently working on</h2>
 
- - TCP Chat Application
+ - [TCP Chat Application](https://github.com/osagie8/tcp-chat)
 
 <h2>🤳Connect with me:</h2>
 
