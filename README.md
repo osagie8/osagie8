@@ -16,7 +16,7 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/osagie8/azure-network-protocols)
   -->
 
-<h2>👨‍💻 Im currently working on</h2>
+<h2>Networking Project</h2>
 
  - [TCP Chat Application](https://github.com/osagie8/tcp-chat)
 
