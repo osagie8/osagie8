@@ -1,6 +1,11 @@
-<h1>Hi, I'm Osagie, an <a href="https://linkedin.com/in/osagieowie">IT Professional.</a></h1>
+# Hi, I'm Osagie, an <a href="https://linkedin.com/in/osagieowie">IT Professional.</a>
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+## 🖥️ [__Home Lab__](https://github.com/osagie8/home-lab) 
+- __Services included__
+  - Network Attached Storage (NAS)
+  - Virtual Machines (Windows & Linux)
+
+## 👨‍💻 Information Technology Projects:
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/osagie8/osticket-prereqs)
